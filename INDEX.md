@@ -26,6 +26,13 @@
 | 文档 | 更新时间 | 状态 |
 |------|----------|------|
 | [AI Agent Harness Engineering研究报告](research/AI Agent Harness Engineering研究报告.md) | 2026-03-30 | ✅ 完成 |
+| [AI-Agent构建实践指南](research/AI-Agent构建实践指南.md) | 2026-03-30 | ✅ 完成 |
+
+### AI 视频生成技术
+
+| 文档 | 更新时间 | 状态 |
+|------|----------|------|
+| [Seedance-2.0-视频生成实战手册](research/Seedance-2.0-视频生成实战手册.md) | 2026-03-30 | ✅ 完成 |
 
 ### 新能源汽车技术研究
 
