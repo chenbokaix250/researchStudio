@@ -28,6 +28,7 @@
 | [AI Agent Harness Engineering研究报告](research/AI Agent Harness Engineering研究报告.md) | 2026-03-30 | ✅ 完成 |
 | [AI-Agent构建实践指南](research/AI-Agent构建实践指南.md) | 2026-03-30 | ✅ 完成 |
 | [CLI工具成为AI能力扩展基础设施研究报告](research/CLI工具成为AI能力扩展基础设施研究报告.md) | 2026-03-30 | ✅ 完成 |
+| [ARC-AGI基准测试与AI推理能力分析](research/ARC-AGI-基准测试与AI推理能力分析.md) | 2026-03-31 | ✅ 完成 |
 
 ### AI 视频生成技术
 
