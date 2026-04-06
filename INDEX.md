@@ -31,6 +31,7 @@
 | [ARC-AGI基准测试与AI推理能力分析](research/ARC-AGI-基准测试与AI推理能力分析.md) | 2026-03-31 | ✅ 完成 |
 | [实战教学：从0到1写出一个你自己的Skill](research/skill-creation-guide-2026-04-03.md) | 2026-04-03 | ✅ 完成 |
 | [大模型训练原理路径与新实践-Tw93](research/大模型训练原理路径与新实践-Tw93.md) | 2026-04-06 | ✅ 完成 |
+| [Karpathy LLM Wiki：Obsidian AI知识库实战指南](research/karpathy-llm-wiki-obsidian-guide.md) | 2026-04-06 | ✅ 完成 |
 
 ### AI 视频生成技术
 
