@@ -32,8 +32,9 @@
 | [实战教学：从0到1写出一个你自己的Skill](research/skill-creation-guide-2026-04-03.md) | 2026-04-03 | ✅ 完成 |
 | [大模型训练原理路径与新实践-Tw93](research/大模型训练原理路径与新实践-Tw93.md) | 2026-04-06 | ✅ 完成 |
 | [Karpathy LLM Wiki：Obsidian AI知识库实战指南](research/karpathy-llm-wiki-obsidian-guide.md) | 2026-04-06 | ✅ 完成 |
+| [一人公司站群运营实战：2000站方法论](research/一人公司站群运营实战-2000站方法论.md) | 2026-04-06 | ✅ 完成 |
 
-### AI 视频生成技术
+### 副业与赚钱资源
 
 | 文档 | 更新时间 | 状态 |
 |------|----------|------|
