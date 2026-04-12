@@ -37,7 +37,7 @@ finance/
 | 小米 | 1810.HK | 港股 | 2026-04-12 | 22/36 (C级) | 持有 | [分析报告](active/小米_投资分析报告.md) |
 | DRAM ETF | DRAM | ETF | 2026-04-12 | 18/36 (C级) | 持有 | [分析报告](active/DRAM-ETF_投资分析报告.md) |
 | NASA ETF | NASA | ETF | 2026-04-12 | 17/36 (D级) | 观望 | [分析报告](active/NASA-ETF_投资分析报告.md) |
-| VICI Properties | VICI | 美股REIT | 2026-04-12 | 31/36 (A级) | 买入 | [分析报告](active/VCX_投资分析报告.md) |
+| VCX高股息ETF | VCX | ETF | 2026-04-13 | 28/36 (B级) | 观望 | [分析报告](active/VCX_投资分析报告.md) |
 
 ---
 
