@@ -77,5 +77,7 @@
 
 ## 📌 快速导航
 
-- [返回主索引](../INDEX.md)
+- [返回主索引](../../INDEX.md)
+- [AI技术研究](../ai-tech/ai-tech_index.md)
+- [工作业务研究](../business/business_index.md)
 - [GitHub 仓库](https://github.com/chenbokaix250/researchStudio)
