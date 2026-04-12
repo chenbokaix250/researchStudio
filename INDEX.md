@@ -8,63 +8,72 @@
 
 | 目录 | 说明 | 内容 |
 |------|------|------|
-| `research/` | 研究文档 | 研究报告、技术文档 |
+| `research/ai-tech/` | AI技术研究 | AI Agent、大模型、学习方法论、知识库、视频生成 |
+| `research/business/` | 工作业务研究 | Android架构、新能源汽车音频、副业赚钱、站群运营 |
+| `research/finance/` | 投资研究 | 巴菲特投资分析报告（美股/港股/A股） |
 | `.auto-git/` | 自动化配置 | Git 自动提交服务（系统文件） |
 
 ---
 
-## 📄 研究文档索引
+## 📄 分类索引
 
-### AI与学习方法论
+### 🤖 AI技术研究
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [AI驱动的高效学习方法论研究报告](research/AI驱动的高效学习方法论研究报告.md) | 2026-03-29 | ✅ 完成 |
+| 子分类 | 报告数量 | 索引链接 |
+|--------|---------|---------|
+| AI Agent技术 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| 大模型与训练 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| 知识库与工具实践 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| AI学习方法论 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| AI视频生成 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 
-### AI Agent 技术研究
+**重点报告：**
+- [AI Agent Harness Engineering研究报告](research/ai-tech/AI%20Agent%20Harness%20Engineering研究报告.md)
+- [大模型训练原理路径与新实践-Tw93](research/ai-tech/大模型训练原理路径与新实践-Tw93.md)
+- [Obsidian + Claude Code 第二大脑实战教程](research/ai-tech/Obsidian-Claude-Code-第二大脑实战教程.md)
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [AI Agent Harness Engineering研究报告](research/AI Agent Harness Engineering研究报告.md) | 2026-03-30 | ✅ 完成 |
-| [AI-Agent构建实践指南](research/AI-Agent构建实践指南.md) | 2026-03-30 | ✅ 完成 |
-| [CLI工具成为AI能力扩展基础设施研究报告](research/CLI工具成为AI能力扩展基础设施研究报告.md) | 2026-03-30 | ✅ 完成 |
-| [ARC-AGI基准测试与AI推理能力分析](research/ARC-AGI-基准测试与AI推理能力分析.md) | 2026-03-31 | ✅ 完成 |
-| [实战教学：从0到1写出一个你自己的Skill](research/skill-creation-guide-2026-04-03.md) | 2026-04-03 | ✅ 完成 |
-| [大模型训练原理路径与新实践-Tw93](research/大模型训练原理路径与新实践-Tw93.md) | 2026-04-06 | ✅ 完成 |
-| [Karpathy LLM Wiki：Obsidian AI知识库实战指南](research/karpathy-llm-wiki-obsidian-guide.md) | 2026-04-06 | ✅ 完成 |
-| [Obsidian + Claude Code 第二大脑实战教程](research/Obsidian-Claude-Code-第二大脑实战教程.md) | 2026-04-12 | ✅ 完成 |
+---
 
-### AI 视频生成技术
+### 💼 工作业务研究
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [Seedance-2.0-视频生成实战手册](research/Seedance-2.0-视频生成实战手册.md) | 2026-03-30 | ✅ 完成 |
+| 子分类 | 报告数量 | 索引链接 |
+|--------|---------|---------|
+| Android架构研究 | 2篇 | [查看详细索引](research/business/business_index.md) |
+| 新能源汽车音频技术 | 1篇 | [查看详细索引](research/business/business_index.md) |
+| 副业与赚钱资源 | 1篇 | [查看详细索引](research/business/business_index.md) |
+| 站群运营 | 1篇 | [查看详细索引](research/business/business_index.md) |
 
-### 副业与赚钱资源
+**重点报告：**
+- [Android重大特性更新研究报告](research/business/Android-重大特性更新研究报告.md)
+- [新能源汽车音频实车标定技术研究报告](research/business/新能源汽车音频实车标定技术研究报告.md)
+- [一人公司站群运营实战：2000站方法论](research/business/一人公司站群运营实战-2000站方法论.md)
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [40个GitHub赚钱项目资源汇总](research/40个GitHub赚钱项目资源汇总.md) | 2026-03-31 | ✅ 完成 |
-| [一人公司站群运营实战：2000站方法论](research/一人公司站群运营实战-2000站方法论.md) | 2026-04-06 | ✅ 完成 |
+---
 
-### 新能源汽车技术研究
+### 📊 投资研究
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [新能源汽车音频实车标定技术研究报告](research/新能源汽车音频实车标定技术研究报告.md) | 2026-03-29 | ✅ 完成 |
+| 市场 | 报告数量 | 索引链接 |
+|------|---------|---------|
+| 美股 | 2篇 | [查看详细索引](research/finance/finance_index.md) |
+| 港股 | 待添加 | [查看详细索引](research/finance/finance_index.md) |
+| A股 | 待添加 | [查看详细索引](research/finance/finance_index.md) |
 
-### 金融投资研究
+**已分析公司：**
+| 公司 | 代码 | 巴菲特评分 | 投资评级 | 报告链接 |
+|------|------|-----------|----------|---------|
+| 英伟达 | NVDA | 29/36 (B级) | 持有 | [分析报告](research/finance/NVDA_英伟达_投资分析报告.md) |
+| 谷歌 | GOOGL | 28/36 (B级) | 买入 | [分析报告](research/finance/GOOGL_谷歌_投资分析报告.md) |
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [金融投资研究报告索引](research/finance/finance_index.md) | 2026-04-12 | ✅ 完成 |
+---
 
-### Android 架构研究
+## 📈 统计概览
 
-| 文档 | 更新时间 | 状态 |
-|------|----------|------|
-| [Android-OTA-研究](research/Android-OTA-研究.md) | 2026-03-20 | ✅ 完成 |
-| [Android-重大特性更新研究报告](research/Android-重大特性更新研究报告.md) | 2026-03-21 | ✅ 完成 |
+| 分类 | 报告总数 | 最近更新 |
+|------|---------|---------|
+| AI技术研究 | 10篇 | 2026-04-12 |
+| 工作业务研究 | 5篇 | 2026-04-06 |
+| 投资研究 | 2篇 | 2026-04-12 |
+| **总计** | **17篇** | - |
 
 ---
 
@@ -81,4 +90,7 @@
 ## 📌 快速导航
 
 - [README](README.md) - 项目说明
+- [AI技术研究索引](research/ai-tech/ai-tech_index.md)
+- [工作业务研究索引](research/business/business_index.md)
+- [投资研究索引](research/finance/finance_index.md)
 - [GitHub 仓库](https://github.com/chenbokaix250/researchStudio)
