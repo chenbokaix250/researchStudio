@@ -1,6 +1,6 @@
 # 📚 研究报告目录索引
 
-> 最后更新: 2026-04-06
+> 最后更新: 2026-04-12
 
 ---
 
@@ -32,6 +32,7 @@
 | [实战教学：从0到1写出一个你自己的Skill](research/skill-creation-guide-2026-04-03.md) | 2026-04-03 | ✅ 完成 |
 | [大模型训练原理路径与新实践-Tw93](research/大模型训练原理路径与新实践-Tw93.md) | 2026-04-06 | ✅ 完成 |
 | [Karpathy LLM Wiki：Obsidian AI知识库实战指南](research/karpathy-llm-wiki-obsidian-guide.md) | 2026-04-06 | ✅ 完成 |
+| [Obsidian + Claude Code 第二大脑实战教程](research/Obsidian-Claude-Code-第二大脑实战教程.md) | 2026-04-12 | ✅ 完成 |
 
 ### AI 视频生成技术
 
