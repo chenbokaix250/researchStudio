@@ -107,3 +107,47 @@ To https://github.com/chenbokaix250/researchStudio.git
  1 file changed, 1 insertion(+), 1 deletion(-)
 To https://github.com/chenbokaix250/researchStudio.git
    117b677..c681f1d  HEAD -> master
+[master 1df862a] 自动提交: 1 个文件变更 (2026-04-06 13:50:16)
+ 1 file changed, 195 insertions(+)
+ create mode 100644 research/karpathy-llm-wiki-obsidian-guide.md
+To https://github.com/chenbokaix250/researchStudio.git
+   2fd7d79..1df862a  HEAD -> master
+[master ba37373] 自动提交: 1 个文件变更 (2026-04-06 13:50:21)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   1df862a..ba37373  HEAD -> master
+[master 92c0d55] 自动提交: 1 个文件变更 (2026-04-06 23:56:13)
+ 1 file changed, 349 insertions(+)
+ create mode 100644 "research/\344\270\200\344\272\272\345\205\254\345\217\270\347\253\231\347\276\244\350\277\220\350\220\245\345\256\236\346\210\230-2000\347\253\231\346\226\271\346\263\225\350\256\272.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   ba37373..92c0d55  HEAD -> master
+[master 260e136] 自动提交: 1 个文件变更 (2026-04-06 23:56:18)
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   92c0d55..260e136  HEAD -> master
+[master e605d38] 自动提交: 1 个文件变更 (2026-04-06 23:56:32)
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   260e136..e605d38  HEAD -> master
+[master 4cef5d4] 自动提交: 1 个文件变更 (2026-04-06 23:56:42)
+ 1 file changed, 6 deletions(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   e605d38..4cef5d4  HEAD -> master
+[master 46f414b] 自动提交: 1 个文件变更 (2026-04-12 19:09:21)
+ 1 file changed, 183 insertions(+)
+ create mode 100644 "research/Obsidian-Claude-Code-\347\254\254\344\272\214\345\244\247\350\204\221\345\256\236\346\210\230\346\225\231\347\250\213.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   4cef5d4..46f414b  HEAD -> master
+[master 17e9be6] 自动提交: 1 个文件变更 (2026-04-12 19:09:26)
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   46f414b..17e9be6  HEAD -> master
+[master 9288a58] 自动提交: 1 个文件变更 (2026-04-12 20:04:59)
+ 1 file changed, 80 insertions(+)
+ create mode 100644 research/finance/finance_index.md
+To https://github.com/chenbokaix250/researchStudio.git
+   17e9be6..9288a58  HEAD -> master
+[master 240a4e5] 自动提交: 1 个文件变更 (2026-04-12 20:07:10)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   9288a58..240a4e5  HEAD -> master
