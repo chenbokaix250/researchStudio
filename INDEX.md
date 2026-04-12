@@ -10,7 +10,7 @@
 |------|------|------|
 | `research/ai-tech/` | AI技术研究 | AI Agent、大模型、学习方法论、知识库、视频生成 |
 | `research/business/` | 工作业务研究 | Android架构、新能源汽车音频、副业赚钱、站群运营 |
-| `research/finance/` | 投资研究 | 巴菲特投资分析报告（美股/港股/A股） |
+| `research/finance/` | 投资研究 | 正在投资、长期持有、跟随趋势三大分类 |
 | `.auto-git/` | 自动化配置 | Git 自动提交服务（系统文件） |
 
 ---
