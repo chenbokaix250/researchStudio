@@ -1,6 +1,6 @@
 # 📚 研究报告目录索引
 
-> 最后更新: 2026-04-12
+> 最后更新: 2026-04-17
 
 ---
 
@@ -24,7 +24,7 @@
 | AI Agent技术 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | 大模型与训练 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | 知识库与工具实践 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
-| AI学习方法论 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| AI学习方法论 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | AI视频生成 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 
 **重点报告：**
@@ -77,7 +77,7 @@
 
 | 分类 | 报告总数 | 最近更新 |
 |------|---------|---------|
-| AI技术研究 | 10篇 | 2026-04-12 |
+| AI技术研究 | 11篇 | 2026-04-17 |
 | 工作业务研究 | 5篇 | 2026-04-06 |
 | 投资研究 | 15篇（含待生成） | 2026-04-12 |
 | **总计** | **30篇+** | - |
