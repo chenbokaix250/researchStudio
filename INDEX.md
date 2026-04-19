@@ -27,8 +27,10 @@
 | AI学习方法论 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | AI视频生成 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | **Claude Design** | 1篇 | **新增** |
+| **AGI/奇点预测** | 1篇 | **新增** |
 
 **重点报告：**
+- [距离 AGI，还有 3 年](research/agi-singularity-prediction-orange.md) ⭐ **新增 2026-04-19** - Ray Kurzweil 预测、寿命逃逸速度、ColaOS 理念
 - [Claude Design 系统提示词（中文版）](research/claude-design-system-prompt-cn.md) ⭐ **新增 2026-04-19**
 - [AI Agent Harness Engineering研究报告](research/ai-tech/AI%20Agent%20Harness%20Engineering研究报告.md)
 - [大模型训练原理路径与新实践-Tw93](research/ai-tech/大模型训练原理路径与新实践-Tw93.md)
@@ -79,10 +81,10 @@
 
 | 分类 | 报告总数 | 最近更新 |
 |------|---------|---------|
-| AI技术研究 | 12篇 | 2026-04-19 |
+| AI技术研究 | 13篇 | 2026-04-19 |
 | 工作业务研究 | 5篇 | 2026-04-06 |
 | 投资研究 | 15篇（含待生成） | 2026-04-12 |
-| **总计** | **32篇+** | - |
+| **总计** | **33篇+** | - |
 
 ---
 
