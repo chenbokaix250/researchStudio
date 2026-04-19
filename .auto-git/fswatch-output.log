@@ -1,0 +1,153 @@
+[master 7b0e449] 自动提交: 1 个文件变更 (2026-03-29 18:48:53)
+ 1 file changed, 652 insertions(+)
+ create mode 100644 "research/\346\226\260\350\203\275\346\272\220\346\261\275\350\275\246\351\237\263\351\242\221\345\256\236\350\275\246\346\240\207\345\256\232\346\212\200\346\234\257\347\240\224\347\251\266\346\212\245\345\221\212.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   df0361e..7b0e449  HEAD -> master
+[master af8ea91] 自动提交: 1 个文件变更 (2026-03-29 18:49:12)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   7b0e449..af8ea91  HEAD -> master
+[master 4457f61] 自动提交: 1 个文件变更 (2026-03-29 18:59:53)
+ 1 file changed, 207 insertions(+)
+ create mode 100644 "research/AI\351\251\261\345\212\250\347\232\204\351\253\230\346\225\210\345\255\246\344\271\240\346\226\271\346\263\225\350\256\272\347\240\224\347\251\266\346\212\245\345\221\212.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   af8ea91..4457f61  HEAD -> master
+[master 85f6254] 自动提交: 1 个文件变更 (2026-03-29 19:00:03)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   4457f61..85f6254  HEAD -> master
+[master 83cfdfd] 自动提交: 1 个文件变更 (2026-03-30 02:52:57)
+ 1 file changed, 271 insertions(+)
+ create mode 100644 "research/AI Agent Harness Engineering\347\240\224\347\251\266\346\212\245\345\221\212.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   85f6254..83cfdfd  HEAD -> master
+[master abb699b] 自动提交: 1 个文件变更 (2026-03-30 02:53:02)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   83cfdfd..abb699b  HEAD -> master
+[master abc94c5] 自动提交: 1 个文件变更 (2026-03-30 02:53:07)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   abb699b..abc94c5  HEAD -> master
+[master c24c9ab] 自动提交: 1 个文件变更 (2026-03-30 04:21:48)
+ 7 files changed, 218 insertions(+)
+ create mode 100644 .auto-git/.fswatch-error.log
+ create mode 100644 .auto-git/.fswatch-output.log
+ create mode 100644 .auto-git/.git-auto-commit.log
+ create mode 100644 .auto-git/fswatch-error.log
+ create mode 100644 .auto-git/fswatch-output.log
+ create mode 100644 .auto-git/git-auto-commit.log
+ create mode 100644 "research/AI-Agent\346\236\204\345\273\272\345\256\236\350\267\265\346\214\207\345\215\227.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   abc94c5..c24c9ab  HEAD -> master
+[master 94a4ce0] 自动提交: 1 个文件变更 (2026-03-30 04:29:35)
+ 1 file changed, 227 insertions(+)
+ create mode 100644 "research/Seedance-2.0-\350\247\206\351\242\221\347\224\237\346\210\220\345\256\236\346\210\230\346\211\213\345\206\214.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   c24c9ab..94a4ce0  HEAD -> master
+[master ddd90b6] 自动提交: 1 个文件变更 (2026-03-30 20:27:48)
+ 1 file changed, 7 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   94a4ce0..ddd90b6  HEAD -> master
+[master 1b8ad0f] 自动提交: 1 个文件变更 (2026-03-30 23:48:58)
+ 1 file changed, 173 insertions(+)
+ create mode 100644 "CLI\345\267\245\345\205\267\346\210\220\344\270\272AI\350\203\275\345\212\233\346\211\251\345\261\225\345\237\272\347\241\200\350\256\276\346\226\275\347\240\224\347\251\266\346\212\245\345\221\212.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   ddd90b6..1b8ad0f  HEAD -> master
+[master 5fae1cd] 自动提交: 1 个文件变更 (2026-03-30 23:53:09)
+ 3 files changed, 37 insertions(+)
+ rename "CLI\345\267\245\345\205\267\346\210\220\344\270\272AI\350\203\275\345\212\233\346\211\251\345\261\225\345\237\272\347\241\200\350\256\276\346\226\275\347\240\224\347\251\266\346\212\245\345\221\212.md" => "research/CLI\345\267\245\345\205\267\346\210\220\344\270\272AI\350\203\275\345\212\233\346\211\251\345\261\225\345\237\272\347\241\200\350\256\276\346\226\275\347\240\224\347\251\266\346\212\245\345\221\212.md" (100%)
+To https://github.com/chenbokaix250/researchStudio.git
+   1b8ad0f..5fae1cd  HEAD -> master
+[master a4b4a7b] 自动提交: 1 个文件变更 (2026-03-30 23:53:19)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   5fae1cd..a4b4a7b  HEAD -> master
+[master c961282] 自动提交: 1 个文件变更 (2026-03-31 00:08:16)
+ 1 file changed, 165 insertions(+)
+ create mode 100644 "research/40\344\270\252GitHub\350\265\232\351\222\261\351\241\271\347\233\256\350\265\204\346\272\220\346\261\207\346\200\273.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   a4b4a7b..c961282  HEAD -> master
+[master 56b4076] 自动提交: 1 个文件变更 (2026-03-31 00:08:31)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   c961282..56b4076  HEAD -> master
+[master 534c05a] 自动提交: 1 个文件变更 (2026-03-31 20:14:16)
+ 1 file changed, 99 insertions(+)
+ create mode 100644 "research/ARC-AGI-\345\237\272\345\207\206\346\265\213\350\257\225\344\270\216AI\346\216\250\347\220\206\350\203\275\345\212\233\345\210\206\346\236\220.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   56b4076..534c05a  HEAD -> master
+[master 15114b8] 自动提交: 1 个文件变更 (2026-03-31 20:14:29)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   534c05a..15114b8  HEAD -> master
+[master f21c6c9] 自动提交: 1 个文件变更 (2026-04-03 23:20:22)
+ 1 file changed, 111 insertions(+)
+ create mode 100644 research/skill-creation-guide-2026-04-03.md
+To https://github.com/chenbokaix250/researchStudio.git
+   15114b8..f21c6c9  HEAD -> master
+[master b3a633d] 自动提交: 1 个文件变更 (2026-04-03 23:20:31)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   f21c6c9..b3a633d  HEAD -> master
+[master 3d76070] 自动提交: 1 个文件变更 (2026-04-03 23:20:36)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   b3a633d..3d76070  HEAD -> master
+[master 6c5223c] 自动提交: 1 个文件变更 (2026-04-06 00:50:59)
+ 1 file changed, 293 insertions(+)
+ create mode 100644 "research/\345\244\247\346\250\241\345\236\213\350\256\255\347\273\203\345\216\237\347\220\206\350\267\257\345\276\204\344\270\216\346\226\260\345\256\236\350\267\265-Tw93.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   3d76070..6c5223c  HEAD -> master
+[master 117b677] 自动提交: 1 个文件变更 (2026-04-06 00:51:12)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   6c5223c..117b677  HEAD -> master
+[master c681f1d] 自动提交: 1 个文件变更 (2026-04-06 00:51:22)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   117b677..c681f1d  HEAD -> master
+[master 1df862a] 自动提交: 1 个文件变更 (2026-04-06 13:50:16)
+ 1 file changed, 195 insertions(+)
+ create mode 100644 research/karpathy-llm-wiki-obsidian-guide.md
+To https://github.com/chenbokaix250/researchStudio.git
+   2fd7d79..1df862a  HEAD -> master
+[master ba37373] 自动提交: 1 个文件变更 (2026-04-06 13:50:21)
+ 1 file changed, 1 insertion(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   1df862a..ba37373  HEAD -> master
+[master 92c0d55] 自动提交: 1 个文件变更 (2026-04-06 23:56:13)
+ 1 file changed, 349 insertions(+)
+ create mode 100644 "research/\344\270\200\344\272\272\345\205\254\345\217\270\347\253\231\347\276\244\350\277\220\350\220\245\345\256\236\346\210\230-2000\347\253\231\346\226\271\346\263\225\350\256\272.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   ba37373..92c0d55  HEAD -> master
+[master 260e136] 自动提交: 1 个文件变更 (2026-04-06 23:56:18)
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   92c0d55..260e136  HEAD -> master
+[master e605d38] 自动提交: 1 个文件变更 (2026-04-06 23:56:32)
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   260e136..e605d38  HEAD -> master
+[master 4cef5d4] 自动提交: 1 个文件变更 (2026-04-06 23:56:42)
+ 1 file changed, 6 deletions(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   e605d38..4cef5d4  HEAD -> master
+[master 46f414b] 自动提交: 1 个文件变更 (2026-04-12 19:09:21)
+ 1 file changed, 183 insertions(+)
+ create mode 100644 "research/Obsidian-Claude-Code-\347\254\254\344\272\214\345\244\247\350\204\221\345\256\236\346\210\230\346\225\231\347\250\213.md"
+To https://github.com/chenbokaix250/researchStudio.git
+   4cef5d4..46f414b  HEAD -> master
+[master 17e9be6] 自动提交: 1 个文件变更 (2026-04-12 19:09:26)
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+To https://github.com/chenbokaix250/researchStudio.git
+   46f414b..17e9be6  HEAD -> master
+[master 9288a58] 自动提交: 1 个文件变更 (2026-04-12 20:04:59)
+ 1 file changed, 80 insertions(+)
+ create mode 100644 research/finance/finance_index.md
+To https://github.com/chenbokaix250/researchStudio.git
+   17e9be6..9288a58  HEAD -> master
+[master 240a4e5] 自动提交: 1 个文件变更 (2026-04-12 20:07:10)
+ 1 file changed, 6 insertions(+)
+To https://github.com/chenbokaix250/researchStudio.git
+   9288a58..240a4e5  HEAD -> master
