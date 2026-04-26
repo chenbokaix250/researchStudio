@@ -22,7 +22,7 @@
 | 子分类 | 报告数量 | 索引链接 |
 |--------|---------|---------|
 | AI Agent技术 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
-| 大模型与训练 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
+| 大模型与训练 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | 知识库与工具实践 | 3篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | AI学习方法论 | 2篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
 | AI视频生成 | 1篇 | [查看详细索引](research/ai-tech/ai-tech_index.md) |
@@ -34,6 +34,7 @@
 - [Claude Design 系统提示词（中文版）](research/claude-design-system-prompt-cn.md) ⭐ **新增 2026-04-19**
 - [AI Agent Harness Engineering研究报告](research/ai-tech/AI%20Agent%20Harness%20Engineering研究报告.md)
 - [大模型训练原理路径与新实践-Tw93](research/ai-tech/大模型训练原理路径与新实践-Tw93.md)
+- [DeepSeek V4 与 Claude Sonnet 4.5 对比-北大教授观点](research/ai-tech/DeepSeek-V4-与Claude-Sonnet对比-北大教授观点.md)
 - [Obsidian + Claude Code 第二大脑实战教程](research/ai-tech/Obsidian-Claude-Code-第二大脑实战教程.md)
 
 ---
