@@ -47,6 +47,7 @@
 | [Karpathy LLM Wiki：Obsidian AI知识库实战指南](karpathy-llm-wiki-obsidian-guide.md) | 2026-04-06 | ✅ 完成 |
 | [Obsidian + Claude Code 第二大脑实战教程](Obsidian-Claude-Code-第二大脑实战教程.md) | 2026-04-12 | ✅ 完成 |
 | [实战教学：从0到1写出一个你自己的Skill](skill-creation-guide-2026-04-03.md) | 2026-04-03 | ✅ 完成 |
+| [你不知道的 AI Coding：非技术人上手指南-Tw93](AI-Coding-非技术人上手指南-Tw93.md) | 2026-04-29 | ✅ 完成 |
 
 ### AI视频生成
 
