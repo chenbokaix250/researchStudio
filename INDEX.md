@@ -1,6 +1,6 @@
 # 📚 研究报告目录索引
 
-> 最后更新: 2026-05-06-04-19
+> 最后更新: 2026-05-11
 
 ---
 
@@ -32,6 +32,8 @@
 | **AI Coding 实战** | 1篇 | **新增** |
 
 **重点报告：**
+- [2026-05-11_聪明的弱者-用智力为失败编织的温柔陷阱-BrainBoss.md](research/ai-tech/2026-05-11_聪明的弱者-用智力为失败编织的温柔陷阱-BrainBoss.md) ⭐ **新增 2026-05-11**
+
 - [距离 AGI，还有 3 年](research/agi-singularity-prediction-orange.md) ⭐ **新增 2026-04-19** - Ray Kurzweil 预测、寿命逃逸速度、ColaOS 理念
 - [你不知道的 AI Coding：非技术人的上手、场景与实战-Tw93](research/ai-tech/AI-Coding-非技术人上手指南-Tw93.md) ⭐ **新增 2026-04-29**
 - [一文搞懂 Agent Harness](research/ai-tech/2026-05-06_一文搞懂AgentHarness-SaitoWu.md) ⭐ **新增 2026-05-06** - Agent Harness 工程实践
