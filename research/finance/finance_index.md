@@ -1,6 +1,6 @@
 # 📊 金融投资研究报告索引
 
-> 最后更新: 2026-04-13
+> 最后更新: 2026-05-19-04-13
 
 ---
 
@@ -118,6 +118,8 @@ finance/
 报告生成后自动保存至对应目录，并触发 GitHub 同步上传。
 
 ---
+
+- [2026-05-19_OpenAIAnthropic都开始押注FDEFDE才是Ag-kfk_ai.md](2026-05-19_OpenAIAnthropic都开始押注FDEFDE才是Ag-kfk_ai.md) - 更新
 
 ## 📌 快速导航
 
