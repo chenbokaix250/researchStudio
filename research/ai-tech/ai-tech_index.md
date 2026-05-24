@@ -1,6 +1,6 @@
 # 🤖 AI技术研究索引
 
-> 最后更新: 2026-05-11
+> 最后更新: 2026-05-24-05-11
 
 ---
 
@@ -69,6 +69,8 @@
 - [一文搞懂 Agent Harness](2026-05-06_一文搞懂AgentHarness-SaitoWu.md) - 2026-05-06 更新
 
 - [2026-05-09_HTML是新一代的Markdown-wangray.md](2026-05-09_HTML是新一代的Markdown-wangray.md) - 更新
+
+- [2026-05-24_Skill小白完整入门教程做出你的第一个skill-ai_xiaomu.md](2026-05-24_Skill小白完整入门教程做出你的第一个skill-ai_xiaomu.md) - 更新
 
 ## 📌 快速导航
 
